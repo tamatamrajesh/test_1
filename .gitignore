@@ -3,4 +3,4 @@
 .projects
 node_modules/
 
-*.class
+#*.class
