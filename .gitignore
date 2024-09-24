@@ -1,4 +1,17 @@
-.classpath
-.projects
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.o
+*.exe
+
+# Node.js dependencies
 node_modules/
-#*.class
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
