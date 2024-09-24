@@ -1,17 +1,3 @@
-# Operating system files
-.DS_Store
-Thumbs.db
-
-# Build artifacts
-*.o
-*.exe
-
-# Node.js dependencies
-node_modules/
-
-# Log files
-*.log
-*.index.js
-# Environment variables
-.env
-
+# Ignore specific files
+secret.txt
+config.json
