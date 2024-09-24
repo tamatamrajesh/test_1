@@ -11,7 +11,7 @@ node_modules/
 
 # Log files
 *.log
-
+*.index.js
 # Environment variables
 .env
 
