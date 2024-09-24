@@ -1,3 +1,6 @@
-# Ignore specific files
-secret.txt
-config.json
+.classpath
+.env
+.projects
+node_modules/
+
+*.class
